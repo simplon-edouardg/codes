@@ -1,0 +1,26 @@
+eth0      Link encap:Ethernet  HWaddr f0:de:f1:89:4f:2e  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          Packets reçus:0 erreurs:0 :0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:1000 
+          Octets reçus:0 (0.0 B) Octets transmis:0 (0.0 B)
+          Interruption:20 Mémoire:f2500000-f2520000 
+
+lo        Link encap:Boucle locale  
+          inet adr:127.0.0.1  Masque:255.0.0.0
+          adr inet6: ::1/128 Scope:Hôte
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          Packets reçus:16464 erreurs:0 :0 overruns:0 frame:0
+          TX packets:16464 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:0 
+          Octets reçus:6060133 (6.0 MB) Octets transmis:6060133 (6.0 MB)
+
+wlan0     Link encap:Ethernet  HWaddr 08:11:96:46:51:f4  
+          inet adr:192.168.200.24  Bcast:192.168.200.255  Masque:255.255.255.0
+          adr inet6: fe80::a11:96ff:fe46:51f4/64 Scope:Lien
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          Packets reçus:421400 erreurs:0 :0 overruns:0 frame:0
+          TX packets:179908 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 lg file transmission:1000 
+          Octets reçus:469220441 (469.2 MB) Octets transmis:22987368 (22.9 MB)
+
